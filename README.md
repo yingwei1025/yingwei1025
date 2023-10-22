@@ -4,3 +4,5 @@
 
 
 [![](https://github-readme-stats.vercel.app/api/?username=yingwei1025&count_private=true&show_icons=true&include_all_commits=true&border_radius=0&theme=radical)](https://github.com/yingwei1025#gh-dark-mode-only)[![](https://github-readme-stats.vercel.app/api/?username=yingwei1025&count_private=true&show_icons=true&include_all_commits=true&border_radius=0)](https://github.com/yingwei1025#gh-light-mode-only)
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
